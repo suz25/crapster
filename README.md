@@ -66,15 +66,6 @@ _____________________________
 Below are some known issues/bugs since Crapster Version 1.0
 If found anymore issues please do feel free to contact me on sujaybiz@gmail.com
 
-DATED           AUTHOR          STATUS          ISSUE
-___________________________________________________________________
-10-02-2009      -self-          Temporary fix   usage of wild character '*' for all files
-                                                Only * would choose the first file in the dir
-                                                as file extension
-                                                fix: try \* or "*" rather than * alone.
-
-19-02-2009      -self-          Not solved      Unpredictable when tested /proc dir as argument.
-
 
 Contact Information
 ___________________________________________________________________
